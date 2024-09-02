@@ -1,6 +1,19 @@
-## Oi! Eu sou o Gabriel Fernandez 😎
-Sou estudante universitário de engenharia de software,no mundo digital, Trabalhando como o tal.
-</div><br/>
+## About me
+- 💻 Software Developer Back-end
+
+- 🧰 Stack: **Java, Spring Boot, SQL**
+
+- 🗂 I'm available for Open Source project
+  
+- 🎓 Software Engineer Student @[UMC](https://www.umc.br/)
+
+<br><br>
+
+# Gabriel Agustin
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A2342?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-agust%C3%ADn-05b147211/)](https://www.linkedin.com/in/gabriel-agust%C3%ADn-05b147211/)
+[![Gmail Badge](https://img.shields.io/badge/-gabriel.fernandez.a8@gmail.com-0A2342?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.fernandez.a8@gmail.com)](mailto:gabriel.fernandez.a8@gmail.com)
+<br><br>
+
 
 ## • Tecnologias que estou aprendendo:
 
