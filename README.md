@@ -5,11 +5,11 @@
 
 ## 🧠 Sobre mim
 
-- 🎯 Foco em desenvolvimento **Back-end** com **Java, Spring Boot e SQL**
+- 🎯 Foco em desenvolvimento **Back-end** com **Java, Spring Boot e SQL** e **Front-end** com **Css e JavaScript**
 - 🤝 Aberto a colaboração em projetos **Open Source**
 - 🛠 Sempre explorando novas tecnologias
 - ✍️ Escrevendo código limpo e testável
-- 📍 Baseado em São Paulo - Brasil
+- 📍 Localizado em São Paulo - Brasil
 
 ---
 
@@ -18,7 +18,10 @@
 <div style="display: inline_block">
   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
   <img align="center" alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  
 </div>
 
 ---
@@ -31,7 +34,7 @@
   <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
   <img align="center" alt="JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Firebase" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
 
 ---
